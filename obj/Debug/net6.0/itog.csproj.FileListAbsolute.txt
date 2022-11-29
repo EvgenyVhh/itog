@@ -1,0 +1,15 @@
+C:\Users\8513\Desktop\itog\bin\Debug\net6.0\itog.exe
+C:\Users\8513\Desktop\itog\bin\Debug\net6.0\itog.deps.json
+C:\Users\8513\Desktop\itog\bin\Debug\net6.0\itog.runtimeconfig.json
+C:\Users\8513\Desktop\itog\bin\Debug\net6.0\itog.dll
+C:\Users\8513\Desktop\itog\bin\Debug\net6.0\itog.pdb
+C:\Users\8513\Desktop\itog\obj\Debug\net6.0\itog.csproj.AssemblyReference.cache
+C:\Users\8513\Desktop\itog\obj\Debug\net6.0\itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8513\Desktop\itog\obj\Debug\net6.0\itog.AssemblyInfoInputs.cache
+C:\Users\8513\Desktop\itog\obj\Debug\net6.0\itog.AssemblyInfo.cs
+C:\Users\8513\Desktop\itog\obj\Debug\net6.0\itog.csproj.CoreCompileInputs.cache
+C:\Users\8513\Desktop\itog\obj\Debug\net6.0\itog.dll
+C:\Users\8513\Desktop\itog\obj\Debug\net6.0\refint\itog.dll
+C:\Users\8513\Desktop\itog\obj\Debug\net6.0\itog.pdb
+C:\Users\8513\Desktop\itog\obj\Debug\net6.0\itog.genruntimeconfig.cache
+C:\Users\8513\Desktop\itog\obj\Debug\net6.0\ref\itog.dll
